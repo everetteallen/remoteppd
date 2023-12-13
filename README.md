@@ -1,2 +1,2 @@
 # remoteppd
-Remote PPDs for use with PPDURL in com.apple.mcxprinting
+Remote PPDs for use with PPDURL in com.apple.mcxprinting configuration profiles.
